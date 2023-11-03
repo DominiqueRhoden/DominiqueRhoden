@@ -1,6 +1,6 @@
-My name is Dominique Rhoden
-I'm from Jamaica
-I like listening to music and watching football
+My name is Dominique Rhoden.
+I'm from Jamaica.
+I like listening to music and watching football.
 
 <!---
 DominiqueRhoden/DominiqueRhoden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
